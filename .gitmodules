@@ -1,0 +1,3 @@
+[submodule "Submodules/CargoManager"]
+	path = Submodules/CargoManager
+	url = https://github.com/rsanchezsaez/CargoManager.git
